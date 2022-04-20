@@ -24,9 +24,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo para mais detalhes.
-<>
+
 
 ---
+##
 Acesse: https://ozera1.github.io/desafio-treine.me/
 ---
 
